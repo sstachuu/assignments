@@ -71,3 +71,4 @@ def no_new_cases_count(day: int, month: int, year: int = 2020) -> int:
     
     # Your code goes here (remove pass)
     pass
+ 
